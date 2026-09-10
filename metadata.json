@@ -1,0 +1,6 @@
+{
+  "name": "Notes",
+  "description": "A modern minimalist notes application with interactive checklists, photo attachments, customizable themes, folders, tags, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
